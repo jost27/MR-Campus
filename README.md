@@ -1,7 +1,7 @@
 
 <h1 align="center">MR-Campus</h1>
 
-<p align="center">show a fishertechnik fabric version 9V like <project-description></p>
+<p align="center">Application in mixed reality using the campus of COLOMBIA National University in Manizales.<project-description></p>
   
 
 ## Links
