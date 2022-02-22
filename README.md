@@ -6,7 +6,7 @@
 
 ## Links
 
-- [Repo](https://github.com/jost27 "<project-name> Repo")
+- [Repo](https://github.com/jost27 "<JOst27 projects> Repo")
 
 
 
